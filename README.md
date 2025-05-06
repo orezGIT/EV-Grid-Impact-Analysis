@@ -19,5 +19,5 @@ National Grid. (n.d.). Electric Nation data. National Grid. https://www.national
 
 National Energy System Operator. (2020–2025). Historic generation mix data. National Energy System Operator Data Portal. https://www.neso.energy/data-portal/historic-generation-mix
 
-Contact
+## Contact
 For questions or collaboration inquiries—especially on adapting the scenario engine to different use cases please feel free to reach out via email: [isaacorezime@gmail.com]
