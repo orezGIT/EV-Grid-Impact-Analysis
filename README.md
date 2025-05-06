@@ -7,4 +7,14 @@ This repository contains Python code for eight comprehensive analyses, each orga
 5. Charging speed forecasts 
 6. Home charging behaviour 
 7. Grid capacity analysis 
-8. Scenario engine (2018/2025/2030)
+8. Scenario engine modelling (2018/2025/2030)
+
+The data used in this analysis are publicly available and listed below:
+
+Department for Transport. (2024). Vehicle licensing statistics: April to June 2024. Gov.uk. https://www.gov.uk/government/statistics/vehicle-licensing-statistics-april-to-june-2024
+
+Department for Transport. (2025). Electric vehicle public charging infrastructure statistics: January 2025. Gov.uk. https://www.gov.uk/government/statistics/electric-vehicle-public-charging-infrastructure-
+
+National Grid. (n.d.). Electric Nation data. National Grid. https://www.nationalgrid.co.uk/electric-nation-data?utm_source
+
+National Energy System Operator. (2020–2025). Historic generation mix data. National Energy System Operator Data Portal. https://www.neso.energy/data-portal/historic-generation-mix
